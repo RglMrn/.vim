@@ -1,6 +1,7 @@
 Pre-Configuration
 =================
 
+Si se está utilizando una versión de VIM anterior a 7.4
 Realizar un symbolic link del .vimrc en el Home directory:
 ```BASH
 $  ln -s ~/.vim/vimrc ~/.vimrc
