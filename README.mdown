@@ -1,0 +1,7 @@
+Pre-Configuration
+=================
+
+Realizar un symbolic link del .vimrc en el Home directory:
+```BASH
+$  ln -s ~/.vim/vimrc ~/.vimrc
+```
