@@ -12,7 +12,10 @@ Bundle 'gmarik/vundle'
 " My Bundles here:
 "
 " original repos on github
-"
+Bundle 'moll/vim-node'
+Bundle 'godlygeek/tabular'
+Bundle 'jelera/vim-javascript-syntax'
+Bundle 'altercation/vim-colors-solarized'
 " vim-scripts repos
 "
 " non github repos
