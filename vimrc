@@ -11,6 +11,9 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 
+set textwidth=90
+set colorcolumn=+1
+
 "My Shortcuts
 :nmap <C-N><C-N> :set number!<CR> 
 :nnoremap <space> :nohlsearch<CR>
